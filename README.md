@@ -1,6 +1,6 @@
 Muhammad Khalifa S
 Aspiring Computer Vision & Edge AI Engineer
-muhammadkhalifa6565@gmail.com | LinkedIn: MUHAMMADKHALIFA S | GitHub: [Add your new link here]
+muhammadkhalifa6565@gmail.com | LinkedIn: MUHAMMADKHALIFA S | GitHub: https://github.com/Khalifa-EdgeCompute
 
 About Me
 I am an engineer currently building my foundation in Python and computer vision logic. I am focused on understanding how edge devices process data efficiently and passionate about translating complex algorithmic logic into scalable system architectures.
